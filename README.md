@@ -11,7 +11,7 @@ Includes preprocessing, training, evaluation, and model comparison.
 - CLI demo: interactive patient input and prediction
 
 ## Project Structure
-- `main.py` (or your entry file): runs evaluation + demo menu
+- `main.py`: runs evaluation + demo menu
 - `models/`: model implementations and evaluation utilities
 - `outputs/`: generated metrics and plots (not committed)
 
